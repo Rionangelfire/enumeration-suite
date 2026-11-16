@@ -6,6 +6,12 @@ Everything is sample/demo data for learning. There is no live scanning, no conne
 
 ![Overview](screenshots/01-overview.jpg)
 
+## Demo video
+
+<video src="https://raw.githubusercontent.com/Rionangelfire/enumeration-suite/main/enumeration-suite-avatar-announcement.mp4" controls></video>
+
+[Watch the avatar announcement](enumeration-suite-avatar-announcement.mp4) (0:10). The narration is an AI voice speaking as Robert's avatar, made with AI for fun to walk through the explanation, not his real voice. The label is burned into the video itself.
+
 ## What it does
 
 Seven tabs, all running on static demo data in the browser:
@@ -69,6 +75,7 @@ Single-file HTML. React 18.3.1 and Tailwind CSS v3.4.18 compiled and inlined, Lu
 enumeration-suite/
 ├── index.html          # The entire app (polished copy; see POLISH-NOTES.md)
 ├── index.verbatim.html # The pasted file, byte-for-byte, kept as provenance
+├── enumeration-suite-avatar-announcement.mp4 # Avatar announcement video (AI-voice label burned in)
 ├── README.md
 ├── LICENSE
 ├── POLISH-NOTES.md     # Every change made to the pasted file, with reasons
